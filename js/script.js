@@ -19,7 +19,7 @@ function displayAJAX(){
             $("#team").append("<h3> Loading....</h3>");
         },
 
-        sucess : function(data){
+        success : function(data){
             setTimeout(function(){
                 $("#team").empty();
                 $.each(data.members,function(index,obj){
