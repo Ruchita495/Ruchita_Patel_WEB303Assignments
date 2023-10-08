@@ -4,7 +4,7 @@
 */
 
 $(function () {
-    // your code here
+   
     if(navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(success, fail);
 
