@@ -1,0 +1,44 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+
+input {
+    margin-left: 10px;
+    border: 2px solid black;
+    width: 20%;
+    padding: 5px;
+
+}
+
+table {
+    margin: 20px auto;
+    border: 2px solid rgb(138, 138, 194);
+}
+
+td {
+    width: 10%;
+    font-size: 20px;
+    text-align: center;
+}
+
+thead td {
+    border: 2px solid black;
+    font-weight: bold;
+    text-align: center;
+}
+
+button {
+    width: 20%;
+    margin: 5%;
+    padding: 8px;
+    border: 2px solid rgb(161, 161, 195);
+    background-color: beige;
+    font-weight: bold;
+}
