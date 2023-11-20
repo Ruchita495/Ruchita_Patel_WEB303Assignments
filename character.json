@@ -1,0 +1,59 @@
+[
+    {
+        "fname": "Doraemon",
+        "lname": "Dora",
+        "status": "Active",
+        "species": "Robot Cat",
+        "gender" : "Male",
+        "dob" : "1990-11-20"
+    },
+    {
+        "fname": "Nobita",
+        "lname": "Nobi",
+        "status": "Alive",
+        "species": "Human",
+        "gender" : "Male",
+        "dob" : "1999-01-21"
+    },
+    {
+        "fname": "Shizuka",
+        "lname": "Minamoto",
+        "status": "Alive",
+        "species": "Human",
+        "gender" : "Female",
+        "dob" : "1989-09-29"
+    },
+    {
+        "fname": "Takeshi",
+        "lname": "Gouda",
+        "status": "Alive",
+        "species": "Human",
+        "gender" : "Male",
+        "dob" : "1995-11-02"
+    },
+    {
+        "fname": "Suneo",
+        "lname": "Honekawa",
+        "status": "Alive",
+        "species": "Human",
+        "gender" : "Male",
+        "dob" : "1986-11-20"
+    },
+    {
+        "fname": "Tamako",
+        "lname": "Nobi",
+        "status": "Alive",
+        "species": "Human",
+        "gender" : "Female",
+        "dob" : "1976-10-20"
+    },
+    {
+        "fname": "Dorami",
+        "lname": "Dora",
+        "status": "Active",
+        "species": "Robot Cat",
+        "gender" : "Female",
+        "dob" : "1990-07-17"
+    }
+    
+]
