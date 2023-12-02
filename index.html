@@ -1,0 +1,37 @@
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1>Ruchita Patel</h1>
+
+    <form method="post" id="registration" action="/register">
+        <label for="name">Username:</label>
+        <input type="text" id="name">
+
+        <label for="password">Password:</label>
+        <input type="password" id="password">
+
+        <label for="cpassword">Confirm Password</label>
+        <input type="password" id="cpassword">
+
+        <input type="checkbox" value="confirm" id="confirm">
+        <label for="confirm">I accept the terms of service</label>
+        
+        <select name="country" id="country">
+            <option value="none">Select your Country</option>
+            <!--Country list will go here-->
+        </select>
+
+        <input type="submit" name="submit" id="submit" value="submit">
+    </form>
+
+    <div id="welcomeMessage" style="display: none;"></div>
+    <script type="text/javascript" src="js/countries.js"></script>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+
+</html>
